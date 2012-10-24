@@ -1,0 +1,7 @@
+Pen Up
+Forward 3
+Right 90°
+Forward 1,5
+Pen Down
+Arc radius 1; Right
+360°
